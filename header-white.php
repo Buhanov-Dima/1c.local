@@ -21,8 +21,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
-				<div class="wrap-menu">
-					<div class="logo"><a href="#"><img src="/img/logo.png" alt="logo"></a></div>
+				<div class="wrap-menu header-2">
+					<div class="logo"><a href="#"><img src="/img/logo-foo.png" alt="logo"></a></div>
 					<div class="menu">
 						<a href="#">Облычный сервис 1с</a>
 						<a href="#">VDS/VPS сервера для 1с</a>
