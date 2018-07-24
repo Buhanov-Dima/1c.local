@@ -428,7 +428,10 @@ footer {}
 .footer-2 .foo-txt p {
   color: #333333;
 }
-
+.wrap-footer img {
+	max-width: 110px;
+	width: 100%;
+}
 .team-b1 {
 	background: url('/img/bg/bg-4.png') no-repeat center;
 	background-size: cover;
@@ -601,4 +604,41 @@ footer {}
 }
 .news-img img {
 	width: 100%;
+}
+
+.wrap-company {
+	background: url('/img/bg/bg-company.png') no-repeat center;
+	padding: 80px 0 100px;
+}
+
+.wrap-company .standart-h-wh {
+	text-align: left;
+}
+
+.company p{
+	color: #ffffff;
+  	font-size: 18px;
+  	line-height: 2.5;
+  	text-align: left;
+  	text-shadow: 1.888px 2.331px 1px rgba(0, 0, 0, 0.13);
+  	font-weight: 400;
+  	margin: 65px 0 110px;
+}
+
+.comp-menu a{
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+	font-size: 16px;
+	color: #ffffff;
+	display: block;
+	width: 260px;
+	height: 40px;
+	text-align: center;
+	line-height: 2.3;
+	font-weight: 300;
+}
+.comp-menu {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
