@@ -46,5 +46,16 @@
 		</div>
 	</div>
 </div>
-
+<div class="wrap-f2-form">
+<div id="particles-js"></div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="plans">
+					<a href="#">ОЗНАКОМИТЬСЯ С ТАРИФНЫМИ ПЛАНАМИ</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <?php include ('footer-white.php'); ?>

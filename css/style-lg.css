@@ -1,0 +1,4 @@
+.menu {flex-grow: 1; text-align: center;} .wrap-menu {flex-wrap: wrap;}
+.cabinet {flex-grow: 1; text-align: right; margin-top: 15px;} .f1-name, .f1-mail, .f1-phone {width: 200px;} .f1-btn {width: 250px;}
+.wrap-map img {width: 100%; margin-top: 60px;}
+.navbar-toggler:not(:disabled):not(.disabled) {position: absolute; right: 15px; top: 15px;}

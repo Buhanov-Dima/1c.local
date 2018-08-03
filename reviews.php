@@ -2,6 +2,7 @@
 
 
 <div class="wrap-f2-form">
+<div id="particles-js"></div>
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-9 mx-auto">

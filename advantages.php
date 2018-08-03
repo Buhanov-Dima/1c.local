@@ -67,6 +67,7 @@
 </div>
 
 <div class="bg-advan-2">
+<div id="particles-js"></div>
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">

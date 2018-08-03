@@ -53,16 +53,17 @@
 </section>
 
 
-<section class="team-plan">
-	<div class="container">
+<div class="wrap-f2-form">
+<div id="particles-js"></div>
+	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xl-12">
-				<div class="team-plans">
+				<div class="plans">
 					<a href="#">ОЗНАКОМИТЬСЯ С ТАРИФНЫМИ ПЛАНАМИ</a>
 				</div>
 			</div>
 		</div>
 	</div>
-</section>
+</div>
 
 <?php include ('footer-white.php'); ?>

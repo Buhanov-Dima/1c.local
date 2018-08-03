@@ -3,6 +3,7 @@
 <section class="m-b1">
 <div class="m-bg1"></div>
 <div class="m-bg2"></div>
+<div id="particles-js"></div>
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
@@ -86,44 +87,44 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xl-3">
+			<div class="col-xl-3 col-md-3">
 				<div class="c-menu">
-					<a href="#">1С: Отчетность</a>
-					<a href="#">1С: ОФД</a>
-					<a href="#">1С: Контрагент</a>
-					<a href="#">1С: Розница</a>
-					<a href="#">1С: Управление торговлей</a>		
+					<p>1С: Отчетность</p>
+					<p>1С: ОФД</p>
+					<p>1С: Контрагент</p>
+					<p>1С: Розница</p>
+					<p>1С: Управление торговлей</</p>
 				</div>
 			</div>
-			<div class="col-xl-3">
+			<div class="col-xl-3 col-md-3">
 				<div class="c-menu">
-					<a href="#">1С: Автосервис</a>
-					<a href="#">1С: СтартЭДО</a>
-					<a href="#">1 СПАРК Рикси</a>
-					<a href="#">1С: Бухгалтерия</a>
-					<a href="#">1С: Документооборот</a>
+					<p>1С: Автосервис</p>
+					<p>1С: СтартЭДО</p>
+					<p>1 СПАРК Рикси</p>
+					<p>1С: Бухгалтерия</p>
+					<p>1С: Документооборот</p>
 				</div>
 			</div>
-			<div class="col-xl-3">
+			<div class="col-xl-3 col-md-3">
 				<div class="c-menu">
-					<a href="#">1С: Салон Красоты</a>
-					<a href="#">1С: Общепит 8</a>
-					<a href="#">1С: Зарплата и</a>
-					<a href="#">1С: Управление нашей фирмой</a>
-					<a href="#">1С: Комплексная автоматизация</a>
+					<p>1С: Салон Красоты</p>
+					<p>1С: Общепит 8</p>
+					<p>1С: Зарплата и</p>
+					<p>1С: Управление нашей фирмой</p>
+					<p>1С: Комплексная автоматизация</p>
 				</div>
 			</div>
-			<div class="col-xl-3">
+			<div class="col-xl-3 col-md-3">
 				<div class="c-menu">
-					<a href="#">1С: Учет в управляющих компаниях</a>
-					<a href="#">1С: Аренда и управление недвижимостью</a>
-					<a href="#">1С: Бухгалтерия сельхозпредприятия</a>
-					<a href="#">1С: CRM ПРОФ</a>
+					<p>1С: Учет в управляющих компаниях</p>
+					<p>1С: Аренда и управление недвижимостью</p>
+					<p>1С: Бухгалтерия сельхозпредприятия</p>
+					<p>1С: CRM ПРОФ</p>
 				</div>
 			</div>
 		</div>
 	</div>
-<div class="wrap-f2-form">	
+<div class="wrap-f2-form">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-xl-12">

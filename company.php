@@ -1,6 +1,7 @@
 <?php include ('header-white.php'); ?>
 
 <section class="wrap-company">
+<div id="particles-js"></div>
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
