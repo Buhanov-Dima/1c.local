@@ -254,6 +254,7 @@ header {position: relative; z-index: 100;}
 	background: -webkit-linear-gradient(left, rgb(179, 164, 217) 0%, #a8c2ed 43%, #a0ffff 80%);
 	background: -o-linear-gradient(left, rgb(179, 164, 217) 0%, #a8c2ed 43%, #a0ffff 80%);
 	background: linear-gradient(to right, rgb(179, 164, 217) 0%, #a8c2ed 43%, #a0ffff 80%);
+  position: relative;
 }
 
 .wrap-f2-form .m-b2-form::after {display: none;}
@@ -865,6 +866,7 @@ footer {}
 
 .sergeevna {
   padding: 30px;
+  margin-bottom: 35px;
 }
 .sergeevna p{
   font-size: 16px;
@@ -926,7 +928,8 @@ footer {}
   border-radius: 5px;
   max-width: 240px;
   width: 100%;
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.14px 1.995px 5.67px 1.33px rgba(0, 0, 0, 0.39);
   height: 170px;
   margin-bottom: 35px;
 }
@@ -1173,6 +1176,7 @@ footer {}
 .sertificats {
 	display: flex;
 	justify-content: space-around;
+  margin-bottom: 35px;
 }
 
 .wrap-ur {

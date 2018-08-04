@@ -14,7 +14,7 @@
 </div>
 
 <div class="bg-gray">
-	<div class="container pg-t-10">
+	<div class="container">
 		<div class="row">
 			<div class="col-xl-6">
 				<div class="speed-distr">
@@ -76,7 +76,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xl-4">
+			<div class="col-xl-4 col-md-4">
 				<div class="c2-menu bg-blue">
 					<p>1С:Отчетность</p>
 					<p>1С:ОФД</p>
@@ -86,7 +86,7 @@
 					<p>1С:Автосервис</p>
 				</div>
 			</div>
-			<div class="col-xl-4">
+			<div class="col-xl-4 col-md-4">
 				<div class="c2-menu">
 					<p>1С:Зарплата и управление персоналом</p>
 					<p>1С:Управление нашей фирмой</p>
@@ -97,7 +97,7 @@
 					<p>1С:CRM ПРОФ</p>
 				</div>
 			</div>
-			<div class="col-xl-4">
+			<div class="col-xl-4 col-md-4">
 				<div class="c2-menu">
 					<p>1C:СтартЭДО</p>
 					<p>1СПАРК Риски</p>

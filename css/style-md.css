@@ -1,3 +1,7 @@
 .m-b1 {flex-wrap: wrap;} .m-b1 h3, .m-b1 ul{width: 100% !important; padding: 0;} .f1-name, .f1-mail, .f1-phone { width: 250px; margin-top: 10px; }
 .f1-main {flex-direction: column; align-items: center; justify-content: center;} .m-b1 {background-size: contain;} .m-b3-txt {max-height: none;}
-.m-bg1 {height: 609px;}
+.m-bg1 {height: 609px;} .m-b2-form::after {display: none;} .c-menu {margin: auto;} .wrap-company {background-size: cover; padding: 20px 0;}
+.company p {margin-bottom: 20px;} .sertificats {flex-wrap: wrap;} .sertificats img {width: 100%;}
+.wrap-reviews {background-size: 100%;} .wrap-reviews p {right: 73px; top: 199px;} .wrap-service {padding: 100px 0;} .service {margin-left: 0;}
+.c2-menu {height: auto; width: 70%; height: auto; min-height: auto; margin: 15px auto;} .tarif {width: 90%;} .teams {justify-content: space-around;}
+.team-item {margin-top: 15px;} .wrap-vds-1 {width: 50%;} .wrap-vds-icon {width: 50%;}
