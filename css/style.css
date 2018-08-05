@@ -70,6 +70,7 @@ header {position: relative; z-index: 100;}
   border-radius: 5px;
   border: 1px solid #ffffff;
   margin-left: 35px;
+  transition: ease-in-out .3s;
 }
 .cabinet a:first-child {
 	margin-left: 0;
@@ -131,6 +132,7 @@ header {position: relative; z-index: 100;}
   width: 278px;
   height: 40px;
   border: 1px solid rgb(246, 146, 89);
+  transition: ease-in-out .3s;
 }
 
 .f1-main {display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; position: relative; z-index: 10;}
@@ -358,6 +360,7 @@ footer {}
   line-height: 1.2;
   border: none;
   margin-top: 20px;
+  transition: ease-in-out .3s;
 }
 .wrap-vds-1 {text-align: center;}
 
@@ -435,6 +438,7 @@ footer {}
 
 .header-2 .cabinet a {
   background: #f69259;
+  transition: ease-in-out 0.3s;
 }
 .header-2 .phone a {
   color: #333333;
@@ -535,6 +539,7 @@ footer {}
 .team-plans {
 	text-align: center;
   position: relative;
+
 }
 .team-plans a{
   font-size: 14px;
@@ -544,6 +549,7 @@ footer {}
   border-radius: 5px;
   padding: 15px 45px;
   line-height: 1;
+  transition: ease-in-out .3s;
 }
 .team-plan {
 	background: -webkit-linear-gradient(left, rgb(179, 164, 217) 0%, #a8c2ed 43%, #a0ffff 80%);
@@ -568,6 +574,7 @@ footer {}
     width: 145px;
     height: 40px;
     margin-top: 50px;
+    transition: ease-in-out .3s;
 }
 .news-txt h4 {
   font-size: 18px;
@@ -653,6 +660,7 @@ footer {}
 	text-align: center;
 	line-height: 2.3;
 	font-weight: 300;
+  transition: ease-in-out .3s;
 }
 .comp-menu {
 	display: flex;
@@ -1204,6 +1212,7 @@ footer {}
 	padding: 10px 25px;
 	border-radius: 5px;
 	color: #333333;
+  transition: ease-in-out .3s;
 }
 
 .navbar-collapse {flex-grow: 0;}
@@ -1211,3 +1220,69 @@ footer {}
 .navbar-expand-lg {justify-content: center;}
 .navbar {display: none;}
 
+.header-2 .menu a {padding: 0 0 5px; position: relative;}
+
+.header-2 .menu a:hover::after, .header-2 .menu a:focus::after {
+    height: 1px;
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+.header-2 .menu a::after {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #333333;
+    content: '';
+    opacity: 0;
+    -webkit-transition: height 0.3s, opacity 0.3s, -webkit-transform 0.3s;
+    -moz-transition: height 0.3s, opacity 0.3s, -moz-transform 0.3s;
+    transition: height 0.3s, opacity 0.3s, transform 0.3s;
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    transform: translateY(-10px);
+}
+
+.menu a {padding: 0 0 5px; position: relative;}
+
+.menu a:hover::after, .menu a:focus::after {
+    height: 1px;
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
+}
+
+.menu a::after {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #ffffff;
+    content: '';
+    opacity: 0;
+    -webkit-transition: height 0.3s, opacity 0.3s, -webkit-transform 0.3s;
+    -moz-transition: height 0.3s, opacity 0.3s, -moz-transform 0.3s;
+    transition: height 0.3s, opacity 0.3s, transform 0.3s;
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    transform: translateY(-10px);
+}
+
+.cabinet a:hover,.vds-btn:hover, .comp-menu a:hover, .btn-news:hover{
+  background: rgb(276, 168, 97);
+}
+ .f1-btn:hover {
+  background: rgb(276, 168, 97);
+  border: 1px solid rgb(276, 168, 97);
+ }
+.plans a:hover, .team-plans a:hover {
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
+  color: #333333;
+}

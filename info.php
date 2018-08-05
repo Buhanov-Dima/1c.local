@@ -35,10 +35,10 @@
 			<div class="col-xl-10 mx-auto">
 				<h3 class="standart-h">Подтверждение надёжности</h3>
 				<div class="sertificats">
-					<a href="">
+					<a href="/img/main/gos.jpg" data-fancybox="gallery" data-caption="Caption #1">
 						<img src="/img/main/gos-reg.jpg" alt="">
 					</a>
-					<a href="">
+					<a href="/img/main/gos.jpg" data-fancybox="gallery" data-caption="Caption #2">
 						<img src="/img/main/gos.jpg" alt="">
 					</a>
 				</div>

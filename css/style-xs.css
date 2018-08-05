@@ -3,3 +3,5 @@
 .wrap-reviews p {position: relative; right: 0; top: 0; margin-top: 15px; font-size: 16px;} .wrap-reviews {height: auto;background: transparent; padding-bottom: 25px;} 
 .w-man h4 {margin-right: 0;} .wrap-video {height: 250px;} .support {flex-wrap: wrap; justify-content: center;} .sup-txt {margin-top: 15px;} .c2-menu {width: 100%;}
 .wrap-serv-ico {flex-wrap: wrap; justify-content: center;} .tarif {width: 100%;} .wrap-vds-1 {width: 90%;} .wrap-vds-icon {width: 100%;}
+.plan-1 p:nth-child(2), .plan p:nth-child(2) {margin: 25px 0;} .plan-1 p:last-child {margin-top: 25px;} .vds-plan-1, .vds-plan {height: auto;}
+.plan-mounth {margin: 15px 0 35px;} .vds-icon.mr-auto, .vds-icon.ml-auto {margin: auto !important;}
