@@ -7,7 +7,7 @@
 			<div class="col-xl-12">
 				<div class="vds-plans">
 					<h3>Виртуалный сервер для 1C</h3>
-					<p class="vds-txt">Популярные тарифы</p>
+					<div class="vds-txt"><p>Популярные тарифы</p></div>
 					<div class="wrap-vds-plan">
 						<div class="vds-plan">
 							<div class="plan">
@@ -161,7 +161,9 @@
 			<div class="col-xl-12">
 				<div class="vds-advantages">
 					<h3 class="standart-h-blue">Преимущества виртуального сервера для «1С»</h3>
-					<p class="vds-txt-2">Основными достоинствами подобной организации бухгалтерского и управленческого учета являются:</p>
+					<div class="vds-txt-2">
+						<p>Основными достоинствами подобной организации бухгалтерского и управленческого учета являются:</p>
+					</div>
 					<div class="wrap-advantages">
 						<div class="advantage">
 							<p>Круглосуточный доступ к <br>VPS c «1C»</p>

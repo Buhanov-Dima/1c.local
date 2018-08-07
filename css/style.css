@@ -52,9 +52,9 @@ header {position: relative; z-index: 100;}
   top: 0;
 }
 
-.phone {position: absolute; right: 15px; top: 20px;}
+.phone {position: absolute; right: 15px; top: 10px;}
 
-.wrap-menu {display: flex; justify-content: space-between; align-items: center; margin-top: 70px;}
+.wrap-menu {display: flex; justify-content: space-between; align-items: center; margin-top: 35px;}
 .logo img {max-width: 140px; width: 100%;}
 
 .menu a{
@@ -79,7 +79,7 @@ header {position: relative; z-index: 100;}
 	margin: 0 14px;
 }
 .phone a{
-  font-size: 13.563px;
+  font-size: 15px;
   font-family: "Roboto Condensed", sans-serif;
   color: rgb(255, 255, 255);
 }
@@ -174,7 +174,7 @@ header {position: relative; z-index: 100;}
 }
 
 
-.map-txt {
+.map-txt p{
   	font-size: 14px;
   	color: rgb(51, 51, 51);
   	line-height: 2.25;
@@ -276,7 +276,7 @@ footer {}
   text-shadow: 1.888px 2.331px 1px rgba(0, 0, 0, 0.13);
   margin-top: 80px;
 }
-.vds-txt {
+.vds-txt p{
   font-size: 18px;
   color: rgb(255, 255, 255);
   text-align: center;
@@ -397,7 +397,7 @@ footer {}
   margin-top: 80px;
   margin-bottom: 25px;
 }
-.vds-txt-2{
+.vds-txt-2 p{
   font-size: 14px;
   color: rgb(51, 51, 51);
   text-align: center;
@@ -430,7 +430,7 @@ footer {}
 }
 
 .wrap-menu.header-2 {
-    margin-bottom: 32px;
+    margin-bottom: 15px;
 }
 .header-2 .menu a {
   color: #333333;
@@ -503,7 +503,7 @@ footer {}
 	font-weight: 400;
 	position: relative;
 }
-.data-txt {
+.data-txt p{
 	font-size: 18px;
   	color: rgb(37, 37, 37);
   	font-weight: 900 !important;
@@ -529,7 +529,7 @@ footer {}
     margin: 0 auto;
 }
 .maps {margin-top: 40px;}
-.data-txt2 {
+.data-txt2 p{
 	font-size: 18px;
   	color: rgb(37, 37, 37);
   	font-weight: 900 !important;
@@ -753,7 +753,7 @@ footer {}
 }
 
 
-.st-p {
+.st-p p{
   font-size: 14px;
   color: rgb(51, 51, 51);
   text-align: center;
