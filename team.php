@@ -83,7 +83,7 @@
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="team-plans">
-					<a href="#">ОЗНАКОМИТЬСЯ С ТАРИФНЫМИ ПЛАНАМИ</a>
+					<a href="/tarify/">ОЗНАКОМИТЬСЯ С ТАРИФНЫМИ ПЛАНАМИ</a>
 				</div>
 			</div>
 		</div>
