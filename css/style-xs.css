@@ -5,3 +5,28 @@
 .wrap-serv-ico {flex-wrap: wrap; justify-content: center;} .tarif {width: 100%;} .wrap-vds-1 {width: 90%;} .wrap-vds-icon {width: 100%;}
 .plan-1 p:nth-child(2), .plan p:nth-child(2) {margin: 25px 0;} .plan-1 p:last-child {margin-top: 25px;} .vds-plan-1, .vds-plan {height: auto;}
 .plan-mounth {margin: 15px 0 35px;} .vds-icon.mr-auto, .vds-icon.ml-auto {margin: auto !important;}
+.wrap-map img {width: 290px;}
+#spb {
+    right: 153px;
+    top: 124px;
+}
+#msk {
+	right: 146px;
+    top: 152px;
+}
+#ekb {
+    right: 108px;
+    top: 141px;
+}
+#prm {
+    right: 121px;
+    top: 134px;
+}
+#hbk {
+    right: 58px;
+    top: 148px;
+}
+
+#hbk p{
+	right: 45px;
+}

@@ -171,6 +171,7 @@ header {position: relative; z-index: 100;}
 }
 .wrap-map {
 	margin-top: 35px;
+  position: relative;
 }
 
 
@@ -1327,6 +1328,53 @@ footer {}
 .thanks {
   text-align: center; 
 }
- .thanks p{
+.thanks p{
   color: #333333;
- }
+}
+#spb {
+  right: 496px;
+  top: 202px;
+}
+#msk {
+  right: 477px;
+  top: 289px;
+}
+#ekb {
+  right: 358px;
+  top: 257px;
+}
+#prm {
+  right: 398px;
+  top: 234px;
+}
+#hbk {
+  right: 202px;
+  top: 277px;
+}
+.wrap-map p{
+  font-size: 14px;
+  opacity: 0;
+  background-color: #ffffff;
+  border: 0.5px solid #dddddd;
+  box-shadow: 0.14px 1.995px 5.67px 1.33px rgba(0, 0, 0, 0.39);
+  border-radius: 3px;
+  width: 150px;
+  position: relative;
+  top: 10px;
+  line-height: 1.5;
+  padding: 0 5px;
+  z-index: 5;
+  transition: linear 0.3s;
+}
+.wrap-map div{
+  width: 10px;
+  height: 10px;
+  border: 2px solid #333333;
+  border-radius: 50%;
+  position: absolute;
+  cursor: pointer;
+}
+
+.wrap-map div:hover p {
+  opacity: 1;
+}

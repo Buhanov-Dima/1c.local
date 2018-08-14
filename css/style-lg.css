@@ -1,6 +1,6 @@
 .menu {flex-grow: 1; text-align: center;} .wrap-menu {flex-wrap: wrap;}
 .cabinet {flex-grow: 1; text-align: right; margin-top: 15px;} .f1-name, .f1-mail, .f1-phone {width: 200px;} .f1-btn {width: 250px;}
-.wrap-map img {width: 100%; margin-top: 60px;}
+.wrap-map img {width: 930px; margin-top: 60px;}
 .navbar-toggler:not(:disabled):not(.disabled) {position: absolute; right: 15px; top: 15px;}
 .m-bg1 {height: 559px;} .wrap-advantages {justify-content: space-around;}
 .comp-menu a {margin: 15px;} .comp-menu {justify-content: space-around;}
@@ -8,3 +8,23 @@
  .news-txt h4 {margin-bottom: 0;} .news-txt span::before {bottom: -5px;} .w-man {justify-content: center;}
  .wrap-video {margin-bottom: 35px;} .c2-menu {height: 542px;} .vds-main {height: auto;} .wrap-vds-plan {flex-wrap: wrap; justify-content: space-around;}
  .wrap-vds-1 {width: 33%; margin-bottom: 25px;} .vds-plan-1 { margin:auto;}
+#spb {
+  right: 492px;
+  top: 270px;
+}
+#msk {
+	right: 473px;
+	top: 359px;
+}
+#ekb {
+right: 350px;
+    top: 326px;
+}
+#prm {
+  right: 390px;
+  top: 301px;
+}
+#hbk {
+  right: 189px;
+    top: 346px;
+}

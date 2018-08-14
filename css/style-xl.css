@@ -2,3 +2,24 @@
 .sertificats a {margin: 15px;} .news {flex-wrap: wrap; justify-content: space-between;} .news-img, .news-txt {width: 100%; padding: 0 25px;}
 .news-txt {margin-bottom: 15px;} .c2-menu {padding: 10px; height: auto;} .c-buh {width: 70%; margin: auto;} .wrap-buh::before {display: none;}
 .item-img {max-width: 130px; max-height: 130px;} .item-img img {width: 100%;}
+.wrap-map img {width: 690px;}
+#spb {
+    right: 364px;
+    top: 214px;
+}
+#msk {
+	right: 349px;
+    top: 280px;
+}
+#ekb {
+right: 258px;
+    top: 256px;
+}
+#prm {
+right: 288px;
+    top: 238px;
+}
+#hbk {
+  right: 139px;
+    top: 271px;
+}

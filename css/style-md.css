@@ -5,3 +5,31 @@
 .wrap-reviews {background-size: 100%;} .wrap-reviews p {right: 73px; top: 199px;} .wrap-service {padding: 100px 0;} .service {margin-left: 0;}
 .c2-menu {height: auto; width: 70%; height: auto; min-height: auto; margin: 15px auto;} .tarif {width: 90%;} .teams {justify-content: space-around;}
 .team-item {margin-top: 15px;} .wrap-vds-1 {width: 50%;} .wrap-vds-icon {width: 50%;} .vds-plan {width: 50%; margin: auto;}
+.wrap-map div {
+	width: 5px;
+	height: 5px;
+	border-width: 1px;
+}
+.wrap-map img {width: 510px;}
+#spb {
+    right: 270px;
+    top: 175px;
+}
+#msk {
+	right: 259px;
+    top: 224px;
+}
+#ekb {
+    right: 192px;
+    top: 206px;
+}
+#prm {
+    right: 215px;
+    top: 193px;
+}
+#hbk {
+    right: 104px;
+    top: 217px;
+}
+.wrap-map p {display: none; font-size: 12px; width: 110px;}
+.wrap-map div:hover p {display: block;}
